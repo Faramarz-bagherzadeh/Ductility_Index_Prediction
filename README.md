@@ -1,2 +1,2 @@
-# Ductility_Index_Prediction
-Ductility index prediction with Chained machine learning models
+# Ductility Index Prediction
+Ductility index prediction is a multi-output regression problem that could be solved via Chained machine learning models
